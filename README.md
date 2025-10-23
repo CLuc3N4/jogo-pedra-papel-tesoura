@@ -1,4 +1,5 @@
 # Jogo Pedra, Papel e Tesoura 🎮
+
 Este projeto foi desenvolvido durante o curso de Python da DSA (Data Science Academy).
 
 ## Como jogar
@@ -9,3 +10,6 @@ Este projeto foi desenvolvido durante o curso de Python da DSA (Data Science Aca
 ## Tecnologias
 - Python 3
 - Jupyter Notebook
+
+## Autor
+Desenvolvido por [Clysman Lucena](https://github.com/CLuc3N4)
